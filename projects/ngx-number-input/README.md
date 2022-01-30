@@ -13,7 +13,7 @@ Possible examples that can be achieved by this directive:
 * -111
 * -111.11
 
-Demo for this directive can be found in this [Stackblitz]() example.
+Demo for this directive can be found in this [Stackblitz](https://stackblitz.com/edit/ngx-number-input-example?file=src/app/app.component.ts) example.
 
 ## Installation
 `npm i ngx-number-input`
