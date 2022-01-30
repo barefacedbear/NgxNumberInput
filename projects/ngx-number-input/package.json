@@ -1,0 +1,30 @@
+{
+  "name": "ngx-number-input",
+  "version": "1.0.0",
+  "description": "A simple directive designed to handle number inputs. This directive will only allow users to input both positive and negative numbers. You can use this with Template/Reactive forms or as a view only field which does not require change in value.",
+  "author": "barefacedbear",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barefacedbear/NgxNumberInput.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barefacedbear/NgxNumberInput/issues"
+  },
+  "homepage": "https://github.com/barefacedbear/NgxNumberInput",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "directive",
+    "input-number",
+    "number"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

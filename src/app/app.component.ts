@@ -2,9 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'ngx-num-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: `<input type="text" ngxNumberInput="7.3" [(ngModel)]="sample" /><br>{{sample}}`
 })
 export class AppComponent {
   title = 'NgxNumberInputLibrary';
+  sample = 0;
 }
